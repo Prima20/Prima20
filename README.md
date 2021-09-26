@@ -4,15 +4,20 @@
 Hello, I am Prima a Game Developer and Front End Developer. I am always curious about how things work and eager to learn new things. 
 I am interested in Game Development, Clean Code, Design Patterns, Software Architecture.
 
-<br>Skills: <br>
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+## Code :
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 ## Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Prima20&show_icons=true">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prima20&layout=compact)](https://github.com/Prima20/README.md)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prima20&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Prima20&layout=compact)
+
+
 
 <!--
 **Prima20/Prima20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
